@@ -1,1 +1,1 @@
-# static-partition
+# Increase or Decrease Static Partition
